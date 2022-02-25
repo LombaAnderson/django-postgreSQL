@@ -30,7 +30,7 @@ git clone https://github.com/LombaAnderson/django-postgresSQL
 # Comando de criação do projeto
 -django-admin startproject docker .
 
-# Criação e acesso do servidor
+# Criação e acesso ao servidor
 -python manage.py runserver
 
 # Acesso ao servidor Django
